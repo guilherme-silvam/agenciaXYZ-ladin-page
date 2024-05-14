@@ -25,9 +25,9 @@ Site landing page
 ## Visualização
 
 Aqui está uma prévia de como o site aparece(Clique na imagem caso queira acessar o site)
-[<img src="./src/images/tela.png">]()
+[<img src="./src/images/tela.png">](https://guilherme-silvam.github.io/agenciaXYZ-ladin-page/)
 
 ## Contato
 
 - E-mail: guisilvam19@gmail.com ou  guilhermemachado019@gmail.com
-- Projeto Link: 
+- Projeto Link: https://guilherme-silvam.github.io/agenciaXYZ-ladin-page/
